@@ -1,0 +1,28 @@
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# YOLO datasets
+datasets/
+
+# Model weights
+*.pt
+*.onnx
+
+# Training outputs
+runs/
+outputs/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
